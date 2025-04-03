@@ -22,6 +22,7 @@ cvws.apple-dns.net
 feedbackws.fe2.apple-dns.net
 gateway.fe2.apple-dns.net
 mask.apple-dns.net
+mask-api.fe2.apple-dns.net
 me.apple-dns.net
 www.appleiphonecell.com
 appleid.cdn-apple.com
@@ -37,4 +38,3 @@ setup.icloud.com
 www.icloud.com
 cvws.icloud-content.com
 s.mzstatic.com
-mask-api.fe2.apple-dns.net
