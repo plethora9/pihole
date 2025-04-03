@@ -37,3 +37,4 @@ setup.icloud.com
 www.icloud.com
 cvws.icloud-content.com
 s.mzstatic.com
+mask-api.fe2.apple-dns.net
