@@ -78,6 +78,10 @@ static.crunchyroll.com
 d-5cg1z0jrrh.execute-api.us-east-1.amazonaws.com
 cr-play-service.prd.crunchyrollsvc.com
 # ==============================================================================
+## Google Fonts
+# ==============================================================================
+gstaticadssl.l.google.com
+# ==============================================================================
 ## Intuit
 # ==============================================================================
 eventbus.intuit.com
@@ -110,6 +114,18 @@ h64.online-metrix.net
 h.online-metrix.net
 ocsp.digicert.com
 # ==============================================================================
+## Microsoft Office
+# ==============================================================================
+officeclient.microsoft.com
+# ==============================================================================
+## Reddit
+# ==============================================================================
+styles.redditmedia.com
+www.redditstatic.com
+www.redditmedia.com
+reddit.map.fastly.net
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+# ==============================================================================
 ## Taco bell
 # ==============================================================================
 config.emb-api.com
@@ -131,3 +147,10 @@ edge.fullstory.com
 rs.fullstory.com
 dam.tacobell.com
 tacobell.bynder.com
+# ==============================================================================
+## YouTube
+# ==============================================================================
+s.youtube.com
+video-stats.l.google.com
+clients4.google.com
+clients2.google.com
