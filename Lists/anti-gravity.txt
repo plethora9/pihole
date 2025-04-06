@@ -120,6 +120,8 @@ officeclient.microsoft.com
 # ==============================================================================
 ## Reddit
 # ==============================================================================
+reddit.com
+www.reddit.com
 styles.redditmedia.com
 www.redditstatic.com
 www.redditmedia.com
