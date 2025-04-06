@@ -1,0 +1,133 @@
+# Title: My Anti-gravity list
+# Author: plethora9
+#
+# This file consists of common sites, apps, and their known dependencies.
+# Other common block lists tend to break these apps and sites so this list
+# aims to create a safe list to allow the dependencies to load.
+#
+# Please note, there may be some errors in this list and it may not catch
+# everything.  If core components of a site or app are still blocked, refer
+# to your pi-hole query log and add exclusions accordingly.
+# 
+# This list is only updated on occasion.  If you want to create your own
+# anti-gravity list, you may copy the content of this list.
+#
+# Last update: 06 April 2025 01:43:02 (UTC)
+#
+# ==============================================================================
+## Apple
+# ==============================================================================
+safebrowsing-proxy.g.aaplimg.com
+time.g.aaplimg.com
+gsp-ssl.ls-apple.com.akadns.net
+e10499.dsce9.akamaiedge.net
+apple.com
+appleid.apple.com
+captive.apple.com
+cf.iadsdk.apple.com
+experiments.apple.com
+fbs.smoot.apple.com
+gsp-ssl.ls.apple.com
+gsp1.apple.com
+iadsdk.apple.com
+init.push.apple.com
+supportmetrics.apple.com
+itunes.apple.com
+odin-signals.apple.com
+partiality.itunes.apple.com
+time.apple.com
+www.apple.com
+xp.apple.com
+ckdatabasews.fe2.apple-dns.net
+cvws.apple-dns.net
+feedbackws.fe2.apple-dns.net
+gateway.fe2.apple-dns.net
+mask.apple-dns.net
+mask-api.fe2.apple-dns.net
+me.apple-dns.net
+www.appleiphonecell.com
+appleid.cdn-apple.com
+cstat.cdn-apple.com
+feedbackws.icloud.com
+gateway.icloud.com
+mask.icloud.com
+mask-h2.icloud.com
+mask-api.icloud.com
+metrics.icloud.com
+probe.icloud.com
+setup.icloud.com
+www.icloud.com
+cvws.icloud-content.com
+s.mzstatic.com
+# ==============================================================================
+## Crunchyroll
+# ==============================================================================
+crunchyroll.com
+www.crunchyroll.com
+eec.crunchyroll.com
+firebaselogging-pa.googleapis.com
+app-analytics-services.com
+e0vemjple0l1luii7h5vlu5no.litix.io
+d-cwjql18y9a.execute-api.us-east-1.amazonaws.com
+cr-license-proxy.prd.crunchyrollsvc.com
+dualstack.n.sni.global.fastly.net
+vod-fy.crunchyrollcdn.com
+d3eg0bumpfykya.cloudfront.net
+v.vrv.co
+static.crunchyroll.com
+d-5cg1z0jrrh.execute-api.us-east-1.amazonaws.com
+cr-play-service.prd.crunchyrollsvc.com
+# ==============================================================================
+## Intuit
+# ==============================================================================
+eventbus.intuit.com
+sci.intuit.com
+logging.api.intuit.com
+geolocation.onetrust.com
+dpm.demdex.net
+assets.intuitcdn.net
+turbotaxonline.app.intuit.com
+prd-cx03.apigwcxprdusw2.iks2.a.intuit.com
+lib.intuitcdn.net
+privacy-cdn.a.intuit.com
+tags.tiqcdn.com
+prd-dx11.devpapigwextprdusw2.iks2.a.intuit.com
+rum.api.intuit.com
+accounts-tax.intuit.com
+segment.intuitcdn.a.intuit.com
+segment.intuitcdn.net
+ivid-prod.intuit.com
+aa.online-metrix.net
+uxfabric.intuitcdn.a.intuit.com
+accounts.intuit.com
+intuit.com
+www.intuit.com
+myturbotax.intuit.com
+turbotax.intuit.com
+qfp.intuit.com
+plugin.intuitcdn.net
+h64.online-metrix.net
+h.online-metrix.net
+ocsp.digicert.com
+# ==============================================================================
+## Taco bell
+# ==============================================================================
+config.emb-api.com
+www.tacobell.com
+tacobell.com
+data.emb-api.com
+e78335.b.akamaiedge.net
+cdn.optimizely.com
+flag.lab.amplitude.com
+api.lab.amplitude.com
+app-analytics-services.com
+amplitude.map.fastly.net
+api.ipify.org
+api.tacobell.com
+sdk.iad-06.braze.com
+wqaksw-launches.appsflyersdk.com
+mr.fullstory.com
+edge.fullstory.com
+rs.fullstory.com
+dam.tacobell.com
+tacobell.bynder.com
