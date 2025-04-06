@@ -50,8 +50,8 @@ appleid.cdn-apple.com
 cstat.cdn-apple.com
 feedbackws.icloud.com
 gateway.icloud.com
-# mask.icloud.com # hard blocked by pi-hole
-# mask-h2.icloud.com # hard blocked by pi-hole
+# mask.icloud.com # Apple private relay hard blocked by pi-hole
+# mask-h2.icloud.com # Apple private relay hard blocked by pi-hole
 mask-api.icloud.com
 metrics.icloud.com
 probe.icloud.com
