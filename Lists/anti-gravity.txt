@@ -10,7 +10,8 @@
 # to your pi-hole query log and add exclusions accordingly.
 # 
 # This list is only updated on occasion.  If you want to create your own
-# anti-gravity list, you may copy the content of this list.
+# anti-gravity list, you may copy the content of this list as a starting
+# point.
 #
 # Last update: 06 April 2025 01:43:02 (UTC)
 #
