@@ -16,11 +16,11 @@
 #
 # Last update: 06 April 2025 01:43:02 (UTC)
 #
-amazon.com
-www.amazon.com
-images-na.ssl-images-amazon.com
-m.media-amazon.com
-fls-na.amazon.com
+#amazon.com
+#www.amazon.com
+#images-na.ssl-images-amazon.com
+#m.media-amazon.com
+#fls-na.amazon.com
 safebrowsing-proxy.g.aaplimg.com
 time.g.aaplimg.com
 gsp-ssl.ls-apple.com.akadns.net
