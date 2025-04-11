@@ -17,3 +17,4 @@
 amazon.com
 www.amazon.com
 ||cnet.com^
+||example.com^
