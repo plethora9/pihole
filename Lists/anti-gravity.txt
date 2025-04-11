@@ -248,4 +248,4 @@ assets2.snappages.site
 ajax.googleapis.com
 caldav.fe2.apple-dns.net
 p158-caldav.icloud.com
-||amazon.com^
+@@||amazon.com^
