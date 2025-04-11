@@ -1,5 +1,6 @@
 # Title: My gravity list
 # Author: plethora9
+# Target: Pi-hole version 6.0+
 #
 # This file consists of common sites, apps, and their known dependencies.
 # This list aims to create a block list to deny sites and dependencies.
