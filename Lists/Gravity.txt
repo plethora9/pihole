@@ -1,0 +1,16 @@
+# Title: My gravity list
+# Author: plethora9
+#
+# This file consists of common sites, apps, and their known dependencies.
+# This list aims to create a block list to deny sites and dependencies.
+#
+# Please note, there may be some errors in this list and it may not catch
+# everything.  If core components of a site or app are still allowed, refer
+# to your pi-hole query log and add inclusions accordingly.
+# 
+# This list is only updated on occasion.  If you want to create your own
+# gravity list, you may copy the content of this list as a starting point.
+#
+# Last update: 10 April 2025 01:43:02 (UTC)
+#
+||cnet.com^
