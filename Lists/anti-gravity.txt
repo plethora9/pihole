@@ -1,5 +1,6 @@
 # Title: My Anti-gravity list
 # Author: plethora9
+# Target: Pi-hole version 6.0+
 #
 # This file consists of common sites, apps, and their known dependencies.
 # Other common block lists tend to break these apps and sites so this list
