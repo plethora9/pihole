@@ -14,7 +14,4 @@
 #
 # Last update: 10 April 2025 01:43:02 (UTC)
 #
-amazon.com
-www.amazon.com
-||cnet.com^
-||example.com^
+||instagram.com^
