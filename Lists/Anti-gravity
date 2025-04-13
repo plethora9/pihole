@@ -1,0 +1,170 @@
+# Title: My Anti-gravity list
+# Author: plethora9
+# Target: Pi-hole version 6.0+
+#
+# This file consists of common sites, apps, and their known dependencies.
+# Other common block lists tend to break these apps and sites so this list
+# aims to create a safe list to allow the dependencies to load.
+#
+# Please note, there may be some errors in this list and it may not catch
+# everything.  If core components of a site or app are still blocked, refer
+# to your pi-hole query log and add exclusions accordingly.
+# 
+# This list is only updated on occasion.  If you want to create your own
+# anti-gravity list, you may copy the content of this list as a starting
+# point.
+#
+# Last update: 13 April 2025 15:34:02 (UTC)
+#
+## Static domains ##########################################################
+www.appleiphonecell.com
+s.mzstatic.com
+apps-mzstatic-cdn.itunes-apple.com.akadns.net
+iphone-ld.origin-apple.com.akadns.net
+gsp-ssl.ls-apple.com.akadns.net
+firebaselogging-pa.googleapis.com
+app-analytics-services.com
+e0vemjple0l1luii7h5vlu5no.litix.io
+d-cwjql18y9a.execute-api.us-east-1.amazonaws.com
+d-5cg1z0jrrh.execute-api.us-east-1.amazonaws.com
+dualstack.n.sni.global.fastly.net
+d3eg0bumpfykya.cloudfront.net
+v.vrv.co
+google.com
+www.google.com
+fonts.gstatic.com
+gstaticadssl.l.google.com
+play.google.com
+clients4.google.com
+clients2.google.com
+googleapis.l.google.com
+dl.google.com
+nexus.ensighten.com
+geolocation.onetrust.com
+ocsp.digicert.com
+officeclient.microsoft.com
+www.msftncsi.com
+www.msftconnecttest.com
+ipv6.msftncsi.com
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+g.live.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+o418887.ingest.sentry.io
+reddit.map.fastly.net
+id.rlcdn.com
+config.emb-api.com
+data.emb-api.com
+ajax.googleapis.com
+s.youtube.com
+video-stats.l.google.com
+www.googleapis.com
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+cylientconfig.passport.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+ctldl.windowsupdate.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+xkms.xboxlive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+d3c1kx9di6aobh.cloudfront.net
+gen3-hls-cdn1.streamspot.com
+m.stripe.com
+stripecdn.map.fastly.net
+m.stripe.network
+live-playback.prod.subsplash.io
+ffproxy.core.subsplash.com
+core.subsplash.com
+o427443.ingest.sentry.io
+assets.static.subsplash.com
+ocsp.digicert.com
+e3913.cd.akamaiedge.net
+dexeqbeb7giwr.cloudfront.net
+d3mhpzpemaj8e.cloudfront.net
+js.stripe.com
+images.subsplash.com
+dashboard.static.subsplash.com
+s3-r-w.us-west-2.amazonaws.com
+cdn.subsplash.com
+subsplash.com
+fonts.googleapis.com
+site.snappages.site
+snappages-prod-assets.s3.us-west-2.amazonaws.com
+a1874.dscg1.akamai.net
+p.typekit.net
+a1988.dscg1.akamai.net
+use.typekit.net
+storage2.snappages.site
+assets2.snappages.site
+t.subsplash.com
+www.tacobell.com
+tacobell.com
+e78335.b.akamaiedge.net
+cdn.optimizely.com
+flag.lab.amplitude.com
+api.lab.amplitude.com
+app-analytics-services.com
+amplitude.map.fastly.net
+api.ipify.org
+api.tacobell.com
+sdk.iad-06.braze.com
+wqaksw-launches.appsflyersdk.com
+mr.fullstory.com
+edge.fullstory.com
+rs.fullstory.com
+dam.tacobell.com
+tacobell.bynder.com
+## ABP style ################################################################
+@@||amazon.com^
+@@||ssl-images-amazon.com^
+@@||media-amazon.com^
+@@||aaplimg.com^
+@@||apple.com^
+# mask.icloud.com and mask-h2.icloud.com are hard-blocked by pi-hole
+@@||icloud.com^
+@@||apple-dns.net^
+@@||cdn-apple.com^
+@@||icloud-content.com^
+@@||bitwarden.com^
+@@||crunchyroll.com^
+@@||crunchyrollsvc.com^
+@@||crunchyrollcdn.com^
+@@||intuit.com^
+@@||intuitcdn.net^
+@@||reddit.com^
+@@||redditmedia.com^
+@@||redditstatic.com^
+@@||redd.it
