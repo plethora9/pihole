@@ -1,0 +1,25 @@
+# Title: My gravity list
+# Author: plethora9
+# Target: Pi-hole version 6.0+, Technitium 14.3+
+#
+# This file consists of niche ad sites tailored to specific IoT devices.
+#
+# Please note, there may be some errors in this list and it may not catch
+# everything.  If ad components of a site or app are still displaying, refer
+# to your pi-hole or technitium query log and add exclusions accordingly.
+# 
+# This list is only updated sparingly.  If you want to create your own
+# gravity list, you may copy the content of this list as a starting
+# point.
+#
+# Last update: 27 December 2025 12:58:02 (UTC)
+#
+0.0.0.0 betteradsystem.com
+0.0.0.0 ads.samsung.com
+0.0.0.0 samsungacr.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 jads.co
+0.0.0.0 samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 adzilla.meme
+0.0.0.0 adsco.re
