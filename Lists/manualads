@@ -16,7 +16,7 @@
 #
 0.0.0.0 betteradsystem.com
 0.0.0.0 ads.samsung.com
-0.0.0.0 samsungacr.com
+# 0.0.0.0 samsungacr.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 jads.co
 0.0.0.0 samsungads.com
